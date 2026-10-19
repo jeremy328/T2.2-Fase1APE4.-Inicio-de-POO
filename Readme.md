@@ -14,7 +14,7 @@
 
   **Proyecto académico | Programación Orientada a Objetos**
 
-  [Descripción](#-descripción) · [Ejercicios](#-ejercicios)  · [Repositorio](#-repositorio)
+  [Descripción](#-descripción) · [Ejercicios](#-ejercicios)  
 
 </div>
 
