@@ -20,17 +20,17 @@
 
 ---
 
-## 📌 Descripción
+##  Descripción
 
 Este proyecto reúne cinco ejercicios desarrollados en **Java** para poner en práctica los fundamentos de la Programación Orientada a Objetos (POO).
 
 Mediante ejemplos sencillos, se trabajan clases, atributos, constructores, creación de objetos, estructuras de control, arreglos y referencias a objetos.
 
-## 🎯 Objetivo
+##  Objetivo
 
 Aplicar los conceptos fundamentales de la POO mediante la resolución de problemas prácticos, desarrollando habilidades para organizar, implementar y ejecutar programas en Java.
 
-## 📚 Ejercicios
+##  Ejercicios
 
 <table>
   <thead>
@@ -69,7 +69,7 @@ Aplicar los conceptos fundamentales de la POO mediante la resolución de problem
   </tbody>
 </table>
 
-## 🗂️ Estructura del proyecto
+##  Estructura del proyecto
 
 ```text
 POO_Ejercicios/
@@ -100,13 +100,13 @@ POO_Ejercicios/
 
 
 
-## 📋 Entregables
+##  Entregables
 
 - Código fuente de los cinco ejercicios.
 - Clases correspondientes a cada problema.
 - Salida de ejecución de cada programa.
 
-## 👨‍💻 Autor
+##  Autor
 
 <div align="center">
 
