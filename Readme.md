@@ -43,27 +43,27 @@ Aplicar los conceptos fundamentales de la POO mediante la resolución de problem
   <tbody>
     <tr>
       <td align="center">01</td>
-      <td>📝 <strong>Notas del curso</strong></td>
+      <td> <strong>Notas del curso</strong></td>
       <td>Clases, objetos, promedios y condicionales.</td>
     </tr>
     <tr>
       <td align="center">02</td>
-      <td>📦 <strong>Inventario de una tienda</strong></td>
+      <td> <strong>Inventario de una tienda</strong></td>
       <td>Atributos, stock, ventas y acumuladores.</td>
     </tr>
     <tr>
       <td align="center">03</td>
-      <td>🐾 <strong>Veterinaria</strong></td>
+      <td> <strong>Veterinaria</strong></td>
       <td>Objetos, atributos y referencias en memoria.</td>
     </tr>
     <tr>
       <td align="center">04</td>
-      <td>💰 <strong>Cuenta de ahorro</strong></td>
+      <td> <strong>Cuenta de ahorro</strong></td>
       <td>Objetos, saldos y ciclos <code>while</code>.</td>
     </tr>
     <tr>
       <td align="center">05</td>
-      <td>📚 <strong>Biblioteca</strong></td>
+      <td> <strong>Biblioteca</strong></td>
       <td>Relación entre clases y control de préstamos.</td>
     </tr>
   </tbody>
@@ -98,12 +98,6 @@ POO_Ejercicios/
 └── README.md
 ```
 
-## 🛠️ Tecnologías utilizadas
-
-- **Java:** lenguaje de programación.
-- **JDK:** herramientas para compilar y ejecutar los programas.
-- **Visual Studio Code:** entorno de desarrollo.
-- **Git y GitHub:** control de versiones y alojamiento del código fuente.
 
 ## 🚀 Instalación y ejecución
 
@@ -113,51 +107,12 @@ POO_Ejercicios/
 - Tener instalado [Visual Studio Code](https://code.visualstudio.com/).
 - Instalar el paquete de extensiones **Extension Pack for Java**.
 
-### Pasos para ejecutar
-
-**1. Clonar el repositorio**
-
-Abre una terminal y ejecuta:
-
-```bash
-git clone https://github.com/TU-USUARIO/TU-REPOSITORIO.git
-```
-
-**2. Abrir el proyecto**
-
-Abre la carpeta descargada en Visual Studio Code.
-
-**3. Ejecutar un ejercicio**
-
-Abre el archivo principal correspondiente:
-
-- `Main1.java`
-- `Main2.java`
-- `Main3.java`
-- `Main4.java`
-- `Main5.java`
-
-**4. Iniciar el programa**
-
-Pulsa **Run Java** sobre el método `main` y consulta los resultados en la terminal.
-
-> **Nota:** reemplaza `TU-USUARIO/TU-REPOSITORIO` por la dirección real de tu repositorio. Ejecuta cada ejercicio de forma independiente.
 
 ## 📋 Entregables
 
 - Código fuente de los cinco ejercicios.
 - Clases correspondientes a cada problema.
 - Salida de ejecución de cada programa.
-
-## 🔗 Repositorio
-
-<div align="center">
-
-  **Accede al código fuente del proyecto**
-
-  [![Repositorio](https://img.shields.io/badge/VER_REPOSITORIO-GitHub-4B1FA6?style=for-the-badge&logo=github&logoColor=white)](https://github.com/TU-USUARIO/TU-REPOSITORIO)
-
-</div>
 
 ## 👨‍💻 Autor
 
