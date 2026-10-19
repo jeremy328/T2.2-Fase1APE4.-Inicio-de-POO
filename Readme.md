@@ -14,7 +14,7 @@
 
   **Proyecto académico | Programación Orientada a Objetos**
 
-  [Descripción](#-descripción) · [Ejercicios](#-ejercicios) · [Instalación](#-instalación-y-ejecución) · [Repositorio](#-repositorio)
+  [Descripción](#-descripción) · [Ejercicios](#-ejercicios)  · [Repositorio](#-repositorio)
 
 </div>
 
@@ -98,14 +98,6 @@ POO_Ejercicios/
 └── README.md
 ```
 
-
-## 🚀 Instalación y ejecución
-
-### Requisitos previos
-
-- Tener instalado el [JDK de Java](https://www.oracle.com/java/technologies/downloads/).
-- Tener instalado [Visual Studio Code](https://code.visualstudio.com/).
-- Instalar el paquete de extensiones **Extension Pack for Java**.
 
 
 ## 📋 Entregables
